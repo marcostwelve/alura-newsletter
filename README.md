@@ -26,7 +26,7 @@ Esse projeto foi desenvolvido com as seguintes tecnologias:
 
 ## 💻 Projeto
 
-Uma página Newsletter feita em Tailwind.
+Uma página Newsletter feita em Tailwind, utilizando recursos do framework.
 
 
 ## :memo: Licença
